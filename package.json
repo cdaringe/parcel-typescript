@@ -1,0 +1,16 @@
+{
+  "name": "parcel-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cdaringe/parcel-typescript.git",
+  "author": "cdaringe <cdaringe@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "pouchy": "14",
+    "typescript": "^3.6.4"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
